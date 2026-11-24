@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Leif9.github.io/al-folio/sitemap.xml
+Sitemap: https://leifnelsonmelby.com/al-folio/sitemap.xml
