@@ -27,8 +27,16 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My name is Leif, which in Old Norse means ‘heir’. However, my father’s name is Eric, which means ‘eternal ruler’. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+This creates a dilemma for me. How am I meant to inherit a throne which will never be empty?
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I have another problem too. Unlike the original Leif born in the year 970, my father does not learn an empire. He doesn’t even own a throne (aside from a porcelain one, which I dare not take). 
+
+So, as much as I want to live in luxury and spend my days exploring, planting vineyards, and drinking, I cannot. Like most of us, I have to work.
+
+Right now, I am working on rockets. But, that does not preclude other interests. I love reading, drawing, and hiking. But that is just a list of my current interests which are constantly changing.
+
+This portfolio shows off some of my interests over time. For a time, I was very interested in mechanical contraptions and designed clocks. As well, I once volunteered for a MRI study and they let me take a digital copy of my brain. 
+
+In addition to these various small projects shown here, I have started working on a video game. There will be much more to say about that with time.
