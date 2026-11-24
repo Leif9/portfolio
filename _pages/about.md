@@ -31,12 +31,10 @@ My name is Leif, which in Old Norse means ‘heir’. However, my father’s nam
 
 This creates a dilemma for me. How am I meant to inherit a throne which will never be empty?
 
-I have another problem too. Unlike the original Leif born in the year 970, my father does not learn an empire. He doesn’t even own a throne (aside from a porcelain one, which I dare not take). 
+I have another problem, too. Unlike the original Leif born in the year 970, my father does not lead an empire. He doesn’t even own a throne (aside from a porcelain one, which I dare not take). 
 
-So, as much as I want to live in luxury and spend my days exploring, planting vineyards, and drinking, I cannot. Like most of us, I have to work.
+Since I cannot inherit an empire, I find myself now working on rockets. That's cool, too, I suppose! But, that does not preclude other interests. I love reading, drawing, and hiking. But that is just a list of my current interests which are constantly changing.
 
-Right now, I am working on rockets. But, that does not preclude other interests. I love reading, drawing, and hiking. But that is just a list of my current interests which are constantly changing.
-
-This portfolio shows off some of my interests over time. For a time, I was very interested in mechanical contraptions and designed clocks. As well, I once volunteered for a MRI study and they let me take a digital copy of my brain. 
+This portfolio shows off some of my interests over time. For a time, I was very interested in mechanical contraptions and designed clocks. As well, I once volunteered for a MRI study and they let me take a digital copy of my brain, which I then 3D printed. 
 
 In addition to these various small projects shown here, I have started working on a video game. There will be much more to say about that with time.
